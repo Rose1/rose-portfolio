@@ -1,16 +1,37 @@
-# React + Vite
+# Rosario Ancco — Machine Learning Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website showcasing my background, skills and Machine Learning projects. Built with React and deployed on GitHub Pages.
 
-Currently, two official plugins are available:
+**Live site:** https://rose1.github.io/rose-portfolio/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I started in Systems Engineering, spent three years building software for startups and the banking sector, and later explored graphic design before turning my focus to Machine Learning. This portfolio brings both sides together: an engineering mindset and a strong eye for visual communication.
 
-## Expanding the ESLint configuration
+The site is a single-page portfolio with three sections:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Home** — introduction, resume download and social links
+- **About me** — story, experience, education, technical skills, languages and soft skills
+- **Projects** — selected Machine Learning projects
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| Framework | React |
+| Build tool | Vite |
+| Styling | Tailwind CSS v4 |
+| Typography | Fraunces (headings) and Inter (body) via Google Fonts |
+| Deployment | GitHub Pages with `gh-pages` |
+
+## Design
+
+- Editorial minimalist-style layout with numbered sections and large serif headlines
+- Color palette: professional blue (primary), black (secondary) and a white/marble gradient background
+- Fully responsive: on mobile, the profile photo moves below the main text
+- Colors and fonts are defined as theme tokens in `src/index.css`, so the whole palette can be changed in one place
+
+
+© 2026 Rosario Ancco Peralta
