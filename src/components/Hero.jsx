@@ -22,7 +22,7 @@ export default function Hero() {
 
         <p className="mt-7 max-w-lg text-lg leading-relaxed text-ink/65">
           Machine Learning Engineer with a background in Software Engineering and Graphic Design. Based in Peru — open to
-          international opportunities.
+          remote international opportunities or relocation.
         </p>
 
         <div className="mt-10">
