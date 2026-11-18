@@ -29,7 +29,7 @@ export const softSkills = ['Teamwork', 'Efficient Communication', 'autodidact', 
 // PLACEHOLDER — reemplaza con tus roles, fechas y logros reales
 export const experience = [
     {
-        company: 'Machine Learning Trainee',
+        company: 'Machine Learning Engineer',
         role: 'AnyoneAI',
         date: 'Dec 2025 — May 2026',
         bullets: ['Developed supervised machine learning models using real-world datasets.', 
